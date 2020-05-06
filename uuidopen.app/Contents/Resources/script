@@ -1,0 +1,11 @@
+#!/bin/sh
+
+function uuidopenfile(){
+    open "$(uuidfile $1)"
+}
+
+function uuidfile(){
+    mdfind "uuid=$1"
+}
+
+uuidopenfile ${@##uuid://}
