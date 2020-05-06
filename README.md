@@ -2,7 +2,7 @@
 
 Create permanent links to any file on your Mac so you never have dead links in your notes anymore. Links created using this mechanism can be used pretty much anywhere in your Mac applications.
 
-Every file will be opened with the default application for its type. The default application for a given file type can be [modified in the finder](https://www.techjunkie.com/default-applications-macos/.
+Every file will be opened with the default application for its type. The default application for a given file type can be [modified in the finder](https://www.techjunkie.com/default-applications-macos/).
 
 ## Installation
 
@@ -21,11 +21,11 @@ Then paste it anywhere, say for example in your prefered note editor — I love 
 <div align="center"><img src="img/paste_and_open.png" width=750/></div>
 
 If you copy the plain text link, you would endup with something like: `uuid://8B2ADD22-B2C0-4AF1-B8C8-ED9861D7D9C5`. 
-If this link appear anywhere on your mac where URI are interpreted by the OS, you should be able to click it to open the file whose UUID is *8B2ADD22-B2C0-4AF1-B8C8-ED9861D7D9C5*. For example in a terminal :
+If this link appear anywhere on your mac where URI are interpreted by the OS, you should be able to click it to open the file whose UUID is *8B2ADD22-B2C0-4AF1-B8C8-ED9861D7D9C5*. For example in a terminal:
 
 <div align="center"><img src="img/term_link.png" width=600/></div>
 
-Or in mails ([Spark][Spark.app])
+Or in mails ([Spark][Spark.app]):
 
 <div align="center"><img src="img/mail_link.png" width=600/></div>
 
