@@ -12,6 +12,8 @@ In a terminal :
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cglacet/uuid-scheme/master/install.sh)"
 ```
 
+:warning: This may very likely not work on your machine, I've only tested this on my own machine. Comments and suggestions are always welcome.
+
 ## Example of usage
 
 Find the file you want to reference and copy a link to it (either markdown, or plain text link): 
