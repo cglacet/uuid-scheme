@@ -2,7 +2,7 @@
 
 Create permanent links to any file on your Mac so you never have dead links in your notes anymore. Links created using this mechanism can be used pretty much anywhere in your Mac applications.
 
-Every file will be opened with the default application for its type. The default application for a given file type can be [modified in the finder](https://www.techjunkie.com/default-applications-macos/).
+Every file will be opened with the default application for its type ([set the default application](https://www.techjunkie.com/default-applications-macos/)).
 
 ## Installation
 
@@ -29,6 +29,9 @@ Or in mails ([Spark][Spark.app]):
 
 <div align="center"><img src="img/mail_link.png" width=600/></div>
 
+## Related repositories 
+
+* Add [backreferences to bear notes](https://github.com/cglacet/bear)
 
 [Bear.app]: https://bear.app/
 [Spark.app]: https://sparkmailapp.com/
