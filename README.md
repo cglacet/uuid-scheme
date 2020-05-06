@@ -15,12 +15,7 @@ In a terminal :
 Find the file you want to reference and copy a link to it (either markdown, or plain text link): 
 <div align="center"><img src="img/copy_link.png" width=600/></div>
 
-Then paste it anywhere, say for example in your prefered note editor — I love [Bear notes][Bear.app], but feel free to love another one
-[<img src="https://bear.app/static/favicons/favicon.ico" height="16" />][Bear.app]
-[<img src="https://ulysses.app/assets/images/favicon/favicon-16x16.png?v1" height="16" />][Ulysses.app]
-[<img src="https://s0.wp.com/wp-content/themes/a8c/simplenote/images/chrome/favicon.ico" height="16" />][Simplenote.app]
-[<img src="https://external-content.duckduckgo.com/ip3/evernote.com.ico" height="16" />][Evernote.app]
-:
+Then paste it anywhere, say for example in your prefered note editor — I love [Bear notes][Bear.app] but this would work in any markdown compatible application (or at least it should — [<img src="https://bear.app/static/favicons/favicon.ico" height="16" />][Bear.app] [<img src="https://ulysses.app/assets/images/favicon/favicon-16x16.png?v1" height="16" />][Ulysses.app] [<img src="https://s0.wp.com/wp-content/themes/a8c/simplenote/images/chrome/favicon.ico" height="16" />][Simplenote.app] [<img src="https://external-content.duckduckgo.com/ip3/evernote.com.ico" height="16" />][Evernote.app]):
 <div align="center"><img src="img/paste_and_open.png" width=750/></div>
 
 If you copy the plain text link, you would endup with something like: `uuid://8B2ADD22-B2C0-4AF1-B8C8-ED9861D7D9C5`. 
@@ -31,6 +26,7 @@ If this link appear anywhere on your mac where URI are interpreted by the OS, yo
 Or in mails ([Spark][Spark.app])
 
 <div align="center"><img src="img/mail_link.png" width=600/></div>
+
 
 [Bear.app]: https://bear.app/
 [Spark.app]: https://sparkmailapp.com/
