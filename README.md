@@ -1,6 +1,8 @@
 # Get universal link to any of your file using the UUID-scheme
 
-Create permanent links to any file on your Mac so you never have dead links in your notes (or any other place you want to have URI references).
+Create permanent links to any file on your Mac so you never have dead links in your notes anymore. Links created using this mechanism can be used pretty much anywhere in your Mac applications.
+
+Every file will be opened with the default application for its type. The default application for a given file type can be [modified in the finder](https://www.techjunkie.com/default-applications-macos/.
 
 ## Installation
 
