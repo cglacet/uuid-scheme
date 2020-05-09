@@ -6,13 +6,17 @@ Every file will be opened with the default application for its type ([set the de
 
 ## Installation
 
-In a terminal :
+**Auto install script**
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cglacet/uuid-scheme/master/install.sh)"
 ```
 
 :warning: This may very likely not work on your machine, I've only tested this on my own machine. Comments and suggestions are always welcome.
+
+**Manual installtion**
+
+Download the sources from the [latest release](https://github.com/cglacet/uuid-scheme/releases/latest) extract the `uuidopen.app` in one of your *Application* folder, install both automator workflows located in `automator/Link (uuid markdown).workflow` and `automator/Link (uuid).workflow` (double cliking the file should allow you to install it). 
 
 ## Example of usage
 
